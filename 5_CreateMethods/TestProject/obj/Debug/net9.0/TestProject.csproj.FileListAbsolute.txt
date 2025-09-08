@@ -1,0 +1,15 @@
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\bin\Debug\net9.0\TestProject.exe
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\bin\Debug\net9.0\TestProject.deps.json
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\bin\Debug\net9.0\TestProject.dll
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\bin\Debug\net9.0\TestProject.pdb
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\obj\Debug\net9.0\TestProject.dll
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\obj\Debug\net9.0\refint\TestProject.dll
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\obj\Debug\net9.0\TestProject.pdb
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+C:\GitHub\FCC-CSharp\5_CreateMethods\TestProject\obj\Debug\net9.0\ref\TestProject.dll
