@@ -1,0 +1,15 @@
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\bin\Debug\net9.0\Starter.exe
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\bin\Debug\net9.0\Starter.deps.json
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\bin\Debug\net9.0\Starter.runtimeconfig.json
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\bin\Debug\net9.0\Starter.dll
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\bin\Debug\net9.0\Starter.pdb
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\obj\Debug\net9.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\obj\Debug\net9.0\Starter.AssemblyInfoInputs.cache
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\obj\Debug\net9.0\Starter.AssemblyInfo.cs
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\obj\Debug\net9.0\Starter.csproj.CoreCompileInputs.cache
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\obj\Debug\net9.0\Starter.sourcelink.json
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\obj\Debug\net9.0\Starter.dll
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\obj\Debug\net9.0\refint\Starter.dll
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\obj\Debug\net9.0\Starter.pdb
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\obj\Debug\net9.0\Starter.genruntimeconfig.cache
+C:\GitHub\FCC-CSharp\4_WorkWithVariableData\ChallengeProject\Starter\obj\Debug\net9.0\ref\Starter.dll
